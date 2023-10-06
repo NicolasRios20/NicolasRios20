@@ -44,8 +44,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/NicolasRios20/NicolasRios20/blob/main/path/to/your/game/file.svg"
-       alt="snake" /></a>
+  <img src="https://github.com/NicolasRios20/NicolasRios20/blob/main/resources/grid-snake.svg" alt="snake" />
 </div>
 <!--
 **NicolasRios20/NicolasRios20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
